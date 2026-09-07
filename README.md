@@ -13,6 +13,13 @@
 
 </div>
 
+<div align="center">
+
+### Currently exploring
+`Nostr signing` · `Lightning` · `CPU mining` · `Local-first software`
+
+</div>
+
 ## What I’m working on
 
 <table>
@@ -53,6 +60,40 @@ Small local-first apps, protocol tests and utilities built around specific ideas
 I like turning unusual ideas into working software, then testing, breaking and improving them until they become useful.
 
 Most of my projects start small, stay practical and are built to learn by doing.
+
+## Connect & Support
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Nostr
+
+[![Nostr](https://img.shields.io/badge/Open_Profile-8B5CF6?style=for-the-badge&logo=nostr&logoColor=white)](https://njump.me/npub16ntyfte9h8u2pjpc90su57gcw2f9c7yzsjx6uyfpmaq3tfuxk7lq8ty8ka)
+
+<code>npub16ntyfte9h8u2pjpc90su57gcw2f9c7yzsjx6uyfpmaq3tfuxk7lq8ty8ka</code>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Lightning
+
+[![Lightning](https://img.shields.io/badge/Pay_with_Lightning-6D28D9?style=for-the-badge&logo=lightning&logoColor=white)](https://pay.blink.sv/skylords)
+
+<code>skylords@blink.sv</code>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Bitcoin
+
+[![Bitcoin](https://img.shields.io/badge/View_Address-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1qnxuyu5c7wkvdj9ez50r0ryack8asw2cdlrd69z)
+
+<code>bc1qnxuyu5c7wkvdj9ez50r0ryack8asw2cdlrd69z</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
