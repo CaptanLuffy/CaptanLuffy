@@ -41,7 +41,7 @@ CPU mining experiments with algorithms, pools and custom mining engines.
 ### NostrStone
 A Nostr-based client for sharing and discovering stones and minerals.
 
-### Localhost Radar
+### [Localhost Radar](https://github.com/CaptanLuffy/Localhost-Radar)
 A Windows utility for discovering and monitoring local services.
 
 ### Experimental Tools
